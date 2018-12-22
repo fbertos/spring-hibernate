@@ -1,0 +1,8 @@
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/search/UserSpecification.java
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/service/UserServiceImpl.java
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/service/UserService.java
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/dao/UserRepository.java
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/search/Filter.java
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/model/User.java
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/ApplicationRestService.java
+/home/fbertos/workspace/spring-hibernate/src/main/java/org/fbertos/persistence/controller/UserController.java
